@@ -5,21 +5,21 @@
       "code": "A_m_P",
       "title": "Modo Pro",
       "description": "activado por sistema",
-      "action": "AmodePro"
+      "action": "AmodePro",
       "type": "activate"
     },
     {
       "code": "D_m_P",
       "title": "Modo Pro",
       "description": "desactivado por sistema",
-      "action": "DmodePro"
+      "action": "DmodePro",
       "type": "desactivate"
     },
     {
       "code": "code_error",
       "title": "Test Error",
       "description": "error desconocido",
-      "action": ""
+      "action": "",
       "type": "error"
     }
   ]
