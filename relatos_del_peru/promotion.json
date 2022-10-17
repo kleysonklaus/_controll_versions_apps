@@ -2,10 +2,25 @@
   "data":
   [ 
     {
-      "code": "T_a_P",
+      "code": "A_m_P",
       "title": "Modo Pro",
       "description": "activado por sistema",
-      "type": "success"
+      "action": "AmodePro"
+      "type": "activate"
+    },
+    {
+      "code": "D_m_P",
+      "title": "Modo Pro",
+      "description": "desactivado por sistema",
+      "action": "DmodePro"
+      "type": "desactivate"
+    },
+    {
+      "code": "code_error",
+      "title": "Test Error",
+      "description": "error desconocido",
+      "action": ""
+      "type": "error"
     }
   ]
   
