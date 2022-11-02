@@ -2,7 +2,7 @@
   "data":
   {
     "translate": "",
-    "limit": "unlimit",
-    "lenght": 50
+    "limit": "limit",
+    "lenght": 66
   }
 }
