@@ -4,6 +4,6 @@
       "message": "version de la app en 1.0",
       "news": [],
       "msgUpdate": "actualiza a la version mas reciente de la App",
-      "isForced": false
+      "isForced": true
     }
 }
