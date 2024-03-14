@@ -1,9 +1,9 @@
 {
     "data": {
       "version": "1.0",
-      "message": "version de la app en 1.0",
+      "message": "Actualización",
       "news": [],
-      "msgUpdate": "actualiza a la version mas reciente de la App",
+      "msgUpdate": "Actualiza a la versión más reciente de la App",
       "isForced": false
     }
 }
