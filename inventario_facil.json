@@ -4,16 +4,16 @@
   "modeOnline":{
     "language": {
       "es":{
-        "title": "Titulo de actualización en español",
-        "message": "Mensaje de actualizacion"
+        "title": "🚀 ¡Actualización necesaria!",
+        "message": "¡Hay una nueva versión disponible! Actualiza para acceder a las últimas mejoras y funciones. 🌟"
       },
       "en":{
-        "title": "Titulo de actualización en ingles",
-        "message": "Mensaje de actualizacion"
+        "title": "🚀 Update needed!",
+        "message": "A new version is available! Please update to access the latest improvements and features. 🌟"
       },
       "pt":{
-        "title": "Titulo de actualización en portuges",
-        "message": "Mensaje de actualizacion"
+        "title": "🚀 Atualização necessária!",
+        "message": "Uma nova versão está disponível! Atualize para acessar as melhorias e recursos mais recentes. 🌟"
       }
     },
     "versionsToNotShow": [
