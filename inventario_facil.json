@@ -6,11 +6,11 @@
       "es":{
         "title": "Titulo de actualización en español",
         "message": "Mensaje de actualizacion",
-      }
+      },
       "en":{
         "title": "Titulo de actualización en ingles",
         "message": "Mensaje de actualizacion",
-      }
+      },
       "pt":{
         "title": "Titulo de actualización en portuges",
         "message": "Mensaje de actualizacion",
