@@ -2,8 +2,20 @@
   "version": "1.9.0",
   "info": "Actualización: Registros y Estadísticas",
   "modeOnline":{
-    "title": "Titulo de actualización",
-    "message": "Mensaje de actualizacion",
+    "language": {
+      "es":{
+        "title": "Titulo de actualización en español",
+        "message": "Mensaje de actualizacion",
+      }
+      "en":{
+        "title": "Titulo de actualización en ingles",
+        "message": "Mensaje de actualizacion",
+      }
+      "pt":{
+        "title": "Titulo de actualización en portuges",
+        "message": "Mensaje de actualizacion",
+      }
+    },
     "versionsToNotShow": [
       "1.0",
       "2.0",
