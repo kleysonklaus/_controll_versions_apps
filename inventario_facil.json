@@ -1,4 +1,13 @@
 {
   "version": "1.9.0",
-  "info": "Actualización: Registros y Estadísticas"
+  "info": "Actualización: Registros y Estadísticas",
+  "modeOnline":{
+    "title": "Titulo de actualización",
+    "message": "Mensaje de actualizacion",
+    "versionsToNotShow": [
+      "1.0",
+      "2.0",
+      "3.0",
+    ],
+  }
 }
